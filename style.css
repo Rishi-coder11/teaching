@@ -1,0 +1,115 @@
+.center{
+  text-align: center;
+}
+body{
+  background-color: #808080;
+}
+h1{
+  color: black;
+  text-shadow: 1px;
+  font-size: xxx-large;
+  font-family: 'Ranchers', cursive;
+}
+h3{
+  color: black;
+  font-family: 'Ranchers', cursive;
+}
+.color{
+  color: black;
+  font-family: 'Ranchers', cursive;
+}
+.signuperror{
+  color: red;
+  margin-left: 773px;
+  font-size: 20px;
+}
+.signup_success{
+  color: #83E364;
+  font-size: 20px;
+}
+button{
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+.TOP-RIGHT1{
+  position: absolute;
+  top: 30px;
+  right: 260px;
+
+}
+.TOP-RIGHT{
+  position: absolute;
+  top: 30px;
+  right: 80px;
+
+}
+.TOP-RIGHT2{
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+.TOP-RIGHT3{
+  position: absolute;
+  top: 30px;
+  right: 440px;
+}
+input{
+  border-radius: 3px;
+}
+a{
+  color: black;
+  font-size: 23px;
+}
+#white{
+  background-color: white;
+}
+#div-wrapper1{
+  text-align: right;
+  position: absolute;
+  bottom: 850px;
+  right: 180px;
+}
+.center-input{
+  bottom: 20px;
+  margin-left: 350px;
+  width: 300px;
+  height: 30px;
+  border-radius: 7px;
+  shape-outside: ellipse();
+}
+.logout-button{
+  margin-left: 1600px;
+}
+.signup-button{
+  margin-left: 800px;
+  margin-top: 120px;
+  width: 100px;
+  height: 50px;
+  border-radius: 7px;
+}
+.signup{
+  margin-left: 773px;
+}
+.loginerror{
+  color: red;
+  font-size: 20px;
+  margin-left: 1300px;
+  margin-top: 8px;
+}
+.loginsuccess{
+  color: #83E364;
+  font-size: 20px;
+margin-left: 1500px;
+}
+.text-indent{
+  text-indent: 40px;
+}
+.fontsize{
+  font-size: 20px;
+  font-family: 'Ranchers', cursive;
+  text-align: center;
+}
+video{
+  margin-left: 480px;
+}
